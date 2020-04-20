@@ -11,6 +11,7 @@ Docker Alpine image for PHP FastCGI Process Manager, with extra development tool
 
 * git
 * node.js & npm
+* openssh-client
 
 ## Installed PHP extension
 
